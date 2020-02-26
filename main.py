@@ -67,6 +67,8 @@ def get_article_title(description):
         if keyword in description:
             description = description[description.index(keyword) + len(keyword):]
             title = description[0:description.index('"')]
+        else:
+            title = 'unknown'
     except:
         title = 'unknown'
     return title
@@ -90,7 +92,7 @@ def crawl_youtube_channel(channel_url, verbose=False, sleep_time=3, links_path=N
     unknowns = 0
     counter = 1
 
-    for link in links[0:10]:
+    for link in links:
         information = get_video_info("https://www.youtube.com/" + link)
         information['article'] = get_article_title(information['description'])
         del information['description']
@@ -113,7 +115,7 @@ def crawl_youtube_channel(channel_url, verbose=False, sleep_time=3, links_path=N
 if __name__ == '__main__':
     # provide the youtube channel url here
     youtube_url = 'https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg'
-    data = crawl_youtube_channel(youtube_url, verbose=True, links_path='Two-min-papers_video-links.txt')
+    data = crawl_youtube_channel(youtube_url, verbose=True, links_path='Data/Two-min-papers_video-links.txt')
 
-    with open(youtube_url.split('/')[-1] + '.txt', 'w') as outfile:
+    with open('Data/' + youtube_url.split('/')[-1] + '.txt', 'w') as outfile:
         json.dump(data, outfile, indent=4)

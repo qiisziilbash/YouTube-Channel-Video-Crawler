@@ -1,0 +1,1454 @@
+{
+    "1": {
+        "url": "https://www.youtube.com//watch?v=TbWQ4lMnLNw\n",
+        "article": "Unifying points, beams, and paths in volumetric light transport simulation"
+    },
+    "2": {
+        "url": "https://www.youtube.com//watch?v=B1Dk_9k6l08\n",
+        "article": "Depth-Aware Video Frame Interpolation"
+    },
+    "3": {
+        "url": "https://www.youtube.com//watch?v=Ks7wDYsN4yM\n",
+        "article": "Deep Single Image Portrait Relighting"
+    },
+    "4": {
+        "url": "https://www.youtube.com//watch?v=62Q1NL4k8cI\n",
+        "article": "Dota 2 with Large Scale Deep Reinforcement Learning"
+    },
+    "5": {
+        "url": "https://www.youtube.com//watch?v=EjVzjxihGvU\n",
+        "article": "DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement"
+    },
+    "6": {
+        "url": "https://www.youtube.com//watch?v=9IqRdEs4_JU\n",
+        "article": "CD-MPM: Continuum Damage Material Point Methods for Dynamic Fracture Animation"
+    },
+    "7": {
+        "url": "https://www.youtube.com//watch?v=SWoravHhsUU\n",
+        "article": "Analyzing and Improving the Image Quality of #StyleGAN"
+    },
+    "8": {
+        "url": "https://www.youtube.com//watch?v=T7w7QuYa4SQ\n",
+        "article": "DiffTaichi: Differentiable Programming for Physical Simulation"
+    },
+    "9": {
+        "url": "https://www.youtube.com//watch?v=o_DhNqHazKY\n",
+        "article": "DReCon: Data-Driven responsive Control of Physics-Based Characters"
+    },
+    "10": {
+        "url": "https://www.youtube.com//watch?v=O-52enqUSNw\n",
+        "article": "Unified Spray, Foam and Bubbles for Particle-Based Fluids"
+    },
+    "11": {
+        "url": "https://www.youtube.com//watch?v=eTUmmW4ispA\n",
+        "article": "DeepFovea: Neural Reconstruction for Foveated Rendering and Video Compression using Learned Statistics of Natural Videos"
+    },
+    "12": {
+        "url": "https://www.youtube.com//watch?v=wsFgrzYwchQ\n",
+        "article": "A Temporally Adaptive Material Point Method with Regional Time Stepping"
+    },
+    "13": {
+        "url": "https://www.youtube.com//watch?v=SIGQSgifs6s\n",
+        "article": "A Thermomechanical Material Point Method for Baking and Cooking "
+    },
+    "14": {
+        "url": "https://www.youtube.com//watch?v=hYV4-m7_SK8\n",
+        "article": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model"
+    },
+    "15": {
+        "url": "https://www.youtube.com//watch?v=O8l4Kn-j-5M\n",
+        "article": "Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly"
+    },
+    "16": {
+        "url": "https://www.youtube.com//watch?v=cpxtd-FKY1Y\n",
+        "article": "Natural Adversarial Examples"
+    },
+    "17": {
+        "url": "https://www.youtube.com//watch?v=_s7Bg6yVOdo\n",
+        "article": "Benchmarking Safe Exploration in Deep Reinforcement Learning"
+    },
+    "18": {
+        "url": "https://www.youtube.com//watch?v=tGJ4tEwhgo8\n",
+        "article": "Reparameterizing discontinuous integrands for differentiable\u00a0rendering"
+    },
+    "19": {
+        "url": "https://www.youtube.com//watch?v=NlZJlFCh8MU\n",
+        "article": "Neural Volumes: Learning Dynamic Renderable Volumes from Images"
+    },
+    "20": {
+        "url": "https://www.youtube.com//watch?v=XQEDw6IKTK8\n",
+        "article": "Tackling Climate Change with Machine Learning"
+    },
+    "21": {
+        "url": "https://www.youtube.com//watch?v=jtlrWblOyP4\n",
+        "article": "#AlphaStar: Grandmaster level in StarCraft II using multi-agent reinforcement learning"
+    },
+    "22": {
+        "url": "https://www.youtube.com//watch?v=4J0cpdR7qec\n",
+        "article": "Few-shot Video-to-Video Synthesis"
+    },
+    "23": {
+        "url": "https://www.youtube.com//watch?v=9b2dxc1QalM\n",
+        "article": "Solving Rubik\u2019s Cubewith a Robot Hand"
+    },
+    "24": {
+        "url": "https://www.youtube.com//watch?v=cTqVhcrilrE\n",
+        "article": "Neural State Machine for Character-Scene Interactions"
+    },
+    "25": {
+        "url": "https://www.youtube.com//watch?v=0sR1rU3gLzQ\n",
+        "article": "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis"
+    },
+    "26": {
+        "url": "https://www.youtube.com//watch?v=FZZ9rpmVCqE\n",
+        "article": "3D Ken Burns Effect from a Single Image"
+    },
+    "27": {
+        "url": "https://www.youtube.com//watch?v=Z6iTo7KY7lw\n",
+        "article": "HoloGAN: Unsupervised learning of 3D representations from natural images"
+    },
+    "28": {
+        "url": "https://www.youtube.com//watch?v=g1sAjtDoItE\n",
+        "article": "Cubic Stylization"
+    },
+    "29": {
+        "url": "https://www.youtube.com//watch?v=atcKO15YVD8\n",
+        "article": "Subspace Neural Physics: Fast Data-Driven Interactive Simulation"
+    },
+    "30": {
+        "url": "https://www.youtube.com//watch?v=nSHU-4Yt4eQ\n",
+        "article": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems"
+    },
+    "31": {
+        "url": "https://www.youtube.com//watch?v=Lu56xVlZ40M\n",
+        "article": "Emergent Tool Use from Multi-Agent Interaction"
+    },
+    "32": {
+        "url": "https://www.youtube.com//watch?v=882O_7hsAms\n",
+        "article": "Learning Predict-and-Simulate Policies From Unorganized Human Motion Data"
+    },
+    "33": {
+        "url": "https://www.youtube.com//watch?v=7SM816P5G9s\n",
+        "article": "A Geometrically Consistent Viscous Fluid Solver with Two-Way Fluid-Solid Coupling"
+    },
+    "34": {
+        "url": "https://www.youtube.com//watch?v=RoGHVI-w9bE\n",
+        "article": "FaceForensics++: Learning to Detect Manipulated Facial Images"
+    },
+    "35": {
+        "url": "https://www.youtube.com//watch?v=leoRHsBsv6Q\n",
+        "article": "Transport-Based Neural Style Transfer for Smoke Simulations"
+    },
+    "36": {
+        "url": "https://www.youtube.com//watch?v=Uk9p4Kk98_g\n",
+        "article": "Google Research Football: A Novel Reinforcement Learning Environment"
+    },
+    "37": {
+        "url": "https://www.youtube.com//watch?v=zrF5_O92ELQ\n",
+        "article": "Behaviour Suite for Reinforcement Learning"
+    },
+    "38": {
+        "url": "https://www.youtube.com//watch?v=uVC5WowQxD8\n",
+        "article": "A Multi-Scale Model for Coupling Strands with Shear-Dependent Liquid "
+    },
+    "39": {
+        "url": "https://www.youtube.com//watch?v=duo-tHbSdMk\n",
+        "article": "FSGAN: Subject Agnostic Face Swapping and Reenactment"
+    },
+    "40": {
+        "url": "https://www.youtube.com//watch?v=qkHK1QdQ2Fk\n",
+        "article": "Double-DIP: Unsupervised Image Decomposition via Coupled Deep-Image-Priors"
+    },
+    "41": {
+        "url": "https://www.youtube.com//watch?v=AOZw1tgD8dA\n",
+        "article": "Adversarial Examples Are Not Bugs, They Are Features"
+    },
+    "42": {
+        "url": "https://www.youtube.com//watch?v=-ryF7237gNo\n",
+        "article": "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies"
+    },
+    "43": {
+        "url": "https://www.youtube.com//watch?v=Jnj7OmmOm2Y\n",
+        "article": "On the steerability of generative adversarial networks"
+    },
+    "44": {
+        "url": "https://www.youtube.com//watch?v=IqHs_DkmDVo\n",
+        "article": "GANPaint Studio - Semantic Photo Manipulation with a Generative Image Prior"
+    },
+    "45": {
+        "url": "https://www.youtube.com//watch?v=IMZkLVBhcig\n",
+        "article": "Efficient Video Generation on Complex Datasets"
+    },
+    "46": {
+        "url": "https://www.youtube.com//watch?v=hkSfHCtpnHU\n",
+        "article": "VR Facial Animation via Multiview Image Translation"
+    },
+    "47": {
+        "url": "https://www.youtube.com//watch?v=CSQPD3oyvD8\n",
+        "article": "Animating Fluid Sediment Mixture in Particle-Laden Flows"
+    },
+    "48": {
+        "url": "https://www.youtube.com//watch?v=wVtOuvFlczg\n",
+        "article": "Interactive Body-Driven Graphics for Augmented Video Performance"
+    },
+    "49": {
+        "url": "https://www.youtube.com//watch?v=u90TbxK7VEA\n",
+        "article": "Superhuman AI for multiplayer poker"
+    },
+    "50": {
+        "url": "https://www.youtube.com//watch?v=fcnjHmBcLNQ\n",
+        "article": "Stylizing Video by Example"
+    },
+    "51": {
+        "url": "https://www.youtube.com//watch?v=OEQf0AtSSsc\n",
+        "article": "A Multi-Scale Model for Simulating Liquid-Fabric Interactions"
+    },
+    "52": {
+        "url": "https://www.youtube.com//watch?v=prMk6Znm4Bc\n",
+        "article": "Learning the Depths of Moving People by Watching Frozen People"
+    },
+    "53": {
+        "url": "https://www.youtube.com//watch?v=xlrGOfvYcQc\n",
+        "article": "Generating Diverse High-Fidelity Images with VQ-VAE-2"
+    },
+    "54": {
+        "url": "https://www.youtube.com//watch?v=tRHFQHYfAVc\n",
+        "article": "An Adaptive Parameterization for Efficient Material Acquisition and Rendering"
+    },
+    "55": {
+        "url": "https://www.youtube.com//watch?v=hYWr67i8z5o\n",
+        "article": "Learning to Generate Reviews and Discovering Sentiment"
+    },
+    "56": {
+        "url": "https://www.youtube.com//watch?v=kie4wjB1MCw\n",
+        "article": "Scalable Muscle-actuated HumanSimulation and Control"
+    },
+    "57": {
+        "url": "https://www.youtube.com//watch?v=2xWnOL5bts8\n",
+        "article": "Text-based Editing of Talking-head Video"
+    },
+    "58": {
+        "url": "https://www.youtube.com//watch?v=9M18rc9-VWU\n",
+        "article": "Moving Least Squares MPM with Compatible Particle-in-Cell"
+    },
+    "59": {
+        "url": "https://www.youtube.com//watch?v=thQ7QjqNPlY\n",
+        "article": "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models"
+    },
+    "60": {
+        "url": "https://www.youtube.com//watch?v=S7HlxaMmWAU\n",
+        "article": "Fast Example-Based Stylization with Local Guidance"
+    },
+    "61": {
+        "url": "https://www.youtube.com//watch?v=Y73iUAh56iI\n",
+        "article": "Vid2Game: Controllable Characters Extracted from Real-World Videos"
+    },
+    "62": {
+        "url": "https://www.youtube.com//watch?v=38ZXwJj6j8k\n",
+        "article": "Direct speech-to-speech translation with a sequence-to-sequence model"
+    },
+    "63": {
+        "url": "https://www.youtube.com//watch?v=aJq6ygTWdao\n",
+        "article": "Deferred Neural Rendering: Image Synthesis using Neural Textures"
+    },
+    "64": {
+        "url": "https://www.youtube.com//watch?v=goD36hVVl7M\n",
+        "article": "On the Accurate Large-scale Simulation of Ferrofluids"
+    },
+    "65": {
+        "url": "https://www.youtube.com//watch?v=SfvRhqsmU4o\n",
+        "article": "Few-Shot Unsupervised Image-to-Image Translation"
+    },
+    "66": {
+        "url": "https://www.youtube.com//watch?v=QPwhEnAILa0\n",
+        "article": "Reinforcement Learning, Fast and Slow"
+    },
+    "67": {
+        "url": "https://www.youtube.com//watch?v=C6nonNRoF7g\n",
+        "article": "Handheld Multi-frame Super-resolution"
+    },
+    "68": {
+        "url": "https://www.youtube.com//watch?v=JJlSgm9OByM\n",
+        "article": "TossingBot: Learning to Throw Arbitrary Objects with Residual Physics"
+    },
+    "69": {
+        "url": "https://www.youtube.com//watch?v=e_9f5Z0sMYE\n",
+        "article": "Hybrid Grains: Adaptive Coupling of Discrete and Continuum Simulations of Granular Media"
+    },
+    "70": {
+        "url": "https://www.youtube.com//watch?v=dd1kN_myNDs\n",
+        "article": "Learning Correspondence from the Cycle-Consistency of Time"
+    },
+    "71": {
+        "url": "https://www.youtube.com//watch?v=mGHKFMXdjKU\n",
+        "article": "MONet: Unsupervised Scene Decomposition and Representation"
+    },
+    "72": {
+        "url": "https://www.youtube.com//watch?v=Wxb0jN0X7cs\n",
+        "article": "Aerobatics Control of Flying Creaturesvia Self-Regulated Learning"
+    },
+    "73": {
+        "url": "https://www.youtube.com//watch?v=XSWqLb0VyzM\n",
+        "article": "Exploring Neural Networks with Activation Atlases"
+    },
+    "74": {
+        "url": "https://www.youtube.com//watch?v=hW1_Sidq3m8\n",
+        "article": "Semantic Image Synthesis with Spatially-Adaptive Normalization"
+    },
+    "75": {
+        "url": "https://www.youtube.com//watch?v=iKrrKyeSRew\n",
+        "article": "Visualizing memorization in RNNs"
+    },
+    "76": {
+        "url": "https://www.youtube.com//watch?v=8ypnLjwpzK8\n",
+        "article": "Better Language Models and Their Implications"
+    },
+    "77": {
+        "url": "https://www.youtube.com//watch?v=UoKXJzTYDpw\n",
+        "article": "I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation"
+    },
+    "78": {
+        "url": "https://www.youtube.com//watch?v=-jL2o_15s1E\n",
+        "article": "GPU Optimization of Material Point Methods"
+    },
+    "79": {
+        "url": "https://www.youtube.com//watch?v=luwP75lPExo\n",
+        "article": "Learning a SAT Solver from Single-Bit Supervision"
+    },
+    "80": {
+        "url": "https://www.youtube.com//watch?v=dvzlvHNxdfI\n",
+        "article": "SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color"
+    },
+    "81": {
+        "url": "https://www.youtube.com//watch?v=C7Dmu0GtrSw\n",
+        "article": "Learning Latent Dynamics for Planning from Pixels"
+    },
+    "82": {
+        "url": "https://www.youtube.com//watch?v=cD-eXjf854Q\n",
+        "article": "The Hanabi Challenge: A New Frontier for AI Research"
+    },
+    "83": {
+        "url": "https://www.youtube.com//watch?v=OV0ivJB2lyI\n",
+        "article": "Liquid Splash Modeling with Neural Networks"
+    },
+    "84": {
+        "url": "https://www.youtube.com//watch?v=iM4PPGDQry0\n",
+        "article": " GAN Dissection: Visualizing and Understanding Generative Adversarial Networks "
+    },
+    "85": {
+        "url": "https://www.youtube.com//watch?v=QpptSohzuDo\n",
+        "article": "Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet "
+    },
+    "86": {
+        "url": "https://www.youtube.com//watch?v=YFL-MI5xzgg\n",
+        "article": "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness "
+    },
+    "87": {
+        "url": "https://www.youtube.com//watch?v=pv8Sl2rWyCQ\n",
+        "article": "Avoiding a Tragedy of the Commons in the Peer Review Process"
+    },
+    "88": {
+        "url": "https://www.youtube.com//watch?v=1gWpFuQlBsg\n",
+        "article": "AlphaZero: Shedding new light on the grand games of chess, shogi and Go"
+    },
+    "89": {
+        "url": "https://www.youtube.com//watch?v=F84jaIR5Uxc\n",
+        "article": "3D Human Pose Machines with Self-supervised Learning"
+    },
+    "90": {
+        "url": "https://www.youtube.com//watch?v=lws-2u3LbYg\n",
+        "article": "Deep Feature Consistent Deep Image Transformations: Downscaling, Decolorization and HDR Tone Mapping"
+    },
+    "91": {
+        "url": "https://www.youtube.com//watch?v=OwRuzn3RAhA\n",
+        "article": "A Robust Method to Extract the Rotational Part of Deformations"
+    },
+    "92": {
+        "url": "https://www.youtube.com//watch?v=6fo5NhnyR8I\n",
+        "article": "Learning Dexterous In-Hand Manipulation"
+    },
+    "93": {
+        "url": "https://www.youtube.com//watch?v=Do_00r8NGMY\n",
+        "article": "DeepFocus: Learned Image Synthesis for Computational Displays"
+    },
+    "94": {
+        "url": "https://www.youtube.com//watch?v=-cOYwZ2XcAc\n",
+        "article": "A Style-Based Generator Architecture for Generative Adversarial Networks"
+    },
+    "95": {
+        "url": "https://www.youtube.com//watch?v=t_7qpPOmsME\n",
+        "article": "2.5D Visual Sound"
+    },
+    "96": {
+        "url": "https://www.youtube.com//watch?v=T8YOzqy7t5Y\n",
+        "article": "Reward learning from human preferences and demonstrations in Atari"
+    },
+    "97": {
+        "url": "https://www.youtube.com//watch?v=pc_k-sgUYmY\n",
+        "article": "Scalable agent alignment via reward modeling: a research direction"
+    },
+    "98": {
+        "url": "https://www.youtube.com//watch?v=q22XWPM0Egc\n",
+        "article": "Reinforcement Learning for Improving Agent Design"
+    },
+    "99": {
+        "url": "https://www.youtube.com//watch?v=ZKQp28OqwNQ\n",
+        "article": "Large Scale GAN Training for High Fidelity Natural Image Synthesis"
+    },
+    "100": {
+        "url": "https://www.youtube.com//watch?v=V6G717ewUuw\n",
+        "article": "CariGANs: Unpaired Photo-to-Caricature Translation"
+    },
+    "101": {
+        "url": "https://www.youtube.com//watch?v=AGm3hF_BlYM\n",
+        "article": "Towards Learning a Realistic Rendering of Human Behavior"
+    },
+    "102": {
+        "url": "https://www.youtube.com//watch?v=CIDRdLOWrXQ\n",
+        "article": "Exploration by Random Network Distillation"
+    },
+    "103": {
+        "url": "https://www.youtube.com//watch?v=ozUzomVQsWc\n",
+        "article": "SFV: Reinforcement Learning of Physical Skills from Videos"
+    },
+    "104": {
+        "url": "https://www.youtube.com//watch?v=zL6ltnSKf9k\n",
+        "article": "Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation "
+    },
+    "105": {
+        "url": "https://www.youtube.com//watch?v=o-LU_Dja6Ks\n",
+        "article": "The Sound of Pixels"
+    },
+    "106": {
+        "url": "https://www.youtube.com//watch?v=duCQUu8EQVA\n",
+        "article": "Acquiring Spatially Varying Appearance of Printed Holographic Surfaces"
+    },
+    "107": {
+        "url": "https://www.youtube.com//watch?v=F-00NhYUnH4\n",
+        "article": "A Variational U-Net for Conditional Appearance and Shape Generation"
+    },
+    "108": {
+        "url": "https://www.youtube.com//watch?v=Bv3yat484aQ\n",
+        "article": "Position-Free Monte Carlo Simulation for Arbitrary Layered BSDFs"
+    },
+    "109": {
+        "url": "https://www.youtube.com//watch?v=6IsIGp1IezE\n",
+        "article": "BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains"
+    },
+    "110": {
+        "url": "https://www.youtube.com//watch?v=kBFMsY5ZP0o\n",
+        "article": "Through-Wall Human Pose Estimation Using Radio Signals "
+    },
+    "111": {
+        "url": "https://www.youtube.com//watch?v=txHQoYKaSUk\n",
+        "article": "Learning Synergies between Pushing and Graspingwith Self-supervised Deep Reinforcement Learning"
+    },
+    "112": {
+        "url": "https://www.youtube.com//watch?v=UkWnExEFADI\n",
+        "article": "Single-Image SVBRDF Capture with a Rendering-Aware Deep Network"
+    },
+    "113": {
+        "url": "https://www.youtube.com//watch?v=DuMmcVOsNcs\n",
+        "article": "Differentiable Image Parameterizations"
+    },
+    "114": {
+        "url": "https://www.youtube.com//watch?v=dyzn3Fmtw-E\n",
+        "article": "A Style-Aware Content Loss for Real-time HD Style Transfer"
+    },
+    "115": {
+        "url": "https://www.youtube.com//watch?v=0xlbzCXJpLM\n",
+        "article": "Investigating Human Priors for Playing Video Games"
+    },
+    "116": {
+        "url": "https://www.youtube.com//watch?v=wR2OlsF1CEY\n",
+        "article": "Clinically applicable deep learning fordiagnosis and referral in retinal disease"
+    },
+    "117": {
+        "url": "https://www.youtube.com//watch?v=GRQuRcpf5Gc\n",
+        "article": "Video-to-Video Synthesis"
+    },
+    "118": {
+        "url": "https://www.youtube.com//watch?v=HvH0b9K_Iro\n",
+        "article": "A Fully Progressive Approach to Single-Image Super-Resolution"
+    },
+    "119": {
+        "url": "https://www.youtube.com//watch?v=cEBgi6QYDhQ\n",
+        "article": "Everybody Dance Now"
+    },
+    "120": {
+        "url": "https://www.youtube.com//watch?v=Mnu1DzFzRWs\n",
+        "article": "Mode-Adaptive Neural Networks for Quadruped Motion Control"
+    },
+    "121": {
+        "url": "https://www.youtube.com//watch?v=P0fMwA3X5KI\n",
+        "article": "Noise2Noise: Learning Image Restoration without Clean Data"
+    },
+    "122": {
+        "url": "https://www.youtube.com//watch?v=LBezOcnNJ68\n",
+        "article": "Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation"
+    },
+    "123": {
+        "url": "https://www.youtube.com//watch?v=eSaShQbUJTQ\n",
+        "article": "Measuring abstract reasoning in neural networks"
+    },
+    "124": {
+        "url": "https://www.youtube.com//watch?v=MvFABFWPBrw\n",
+        "article": "Human-level performance in first-person multiplayer games with population-based deep reinforcement learning"
+    },
+    "125": {
+        "url": "https://www.youtube.com//watch?v=xHpwLiTieu4\n",
+        "article": "Adversarial Reprogramming of Neural Networks"
+    },
+    "126": {
+        "url": "https://www.youtube.com//watch?v=8GUYAVXmhsI\n",
+        "article": "The challenge of realistic music generation: modelling raw audio at scale"
+    },
+    "127": {
+        "url": "https://www.youtube.com//watch?v=lCoR-4OlIZI\n",
+        "article": "Example-based Turbulence Style Transfer"
+    },
+    "128": {
+        "url": "https://www.youtube.com//watch?v=KEdrBMZx53w\n",
+        "article": "Towards Virtual Reality Infinite Walking: Dynamic Saccadic Redirection "
+    },
+    "129": {
+        "url": "https://www.youtube.com//watch?v=WMr9ljLomUI\n",
+        "article": "Learning Rich Features for Image Manipulation Detection"
+    },
+    "130": {
+        "url": "https://www.youtube.com//watch?v=YTup-cvELK0\n",
+        "article": "Efficient Rendering of Layered Materials using an Atomic Decomposition with Statistical Operators"
+    },
+    "131": {
+        "url": "https://www.youtube.com//watch?v=Te0L5_u_wIg\n",
+        "article": "FaceForensics: A Large-scale Video Dataset for Forgery Detection in Human Faces "
+    },
+    "132": {
+        "url": "https://www.youtube.com//watch?v=Nq2xvsVojVo\n",
+        "article": "Deep Video Portraits"
+    },
+    "133": {
+        "url": "https://www.youtube.com//watch?v=9S2g7iixB9c\n",
+        "article": "Curiosity-driven Exploration by Self-supervised Prediction"
+    },
+    "134": {
+        "url": "https://www.youtube.com//watch?v=SWW0nVQNm2w\n",
+        "article": "Neural Best-Buddies: Sparse Cross-Domain Correspondence"
+    },
+    "135": {
+        "url": "https://www.youtube.com//watch?v=tU484zM3pDY\n",
+        "article": "Image Inpainting for Irregular Holes Using Partial Convolutions"
+    },
+    "136": {
+        "url": "https://www.youtube.com//watch?v=EQX1wsL2TSs\n",
+        "article": "HeadOn: Real-time Reenactment of Human Portrait Videos"
+    },
+    "137": {
+        "url": "https://www.youtube.com//watch?v=bcZFQ3f26pA\n",
+        "article": "Learning to See in the Dark"
+    },
+    "138": {
+        "url": "https://www.youtube.com//watch?v=KL6U6iasUxs\n",
+        "article": "Non-stationary Texture Synthesis by Adversarial Expansion"
+    },
+    "139": {
+        "url": "https://www.youtube.com//watch?v=cnquEovq1I4\n",
+        "article": "Gaussian Material Synthesis"
+    },
+    "140": {
+        "url": "https://www.youtube.com//watch?v=wm8tK91k37U\n",
+        "article": "Back to Basics: Benchmarking Canonical Evolution Strategies for Playing Atari"
+    },
+    "141": {
+        "url": "https://www.youtube.com//watch?v=fklY2nH7AJo\n",
+        "article": "Deep Painterly Harmonization"
+    },
+    "142": {
+        "url": "https://www.youtube.com//watch?v=DglrYx9F3UU\n",
+        "article": "The Unreasonable Effectiveness of Deep Networks as a Perceptual Metric"
+    },
+    "143": {
+        "url": "https://www.youtube.com//watch?v=gvjCu7zszbQ\n",
+        "article": "World Models"
+    },
+    "144": {
+        "url": "https://www.youtube.com//watch?v=UMSNBLAfC7o\n",
+        "article": "Robots that can adapt like animals"
+    },
+    "145": {
+        "url": "https://www.youtube.com//watch?v=m9XyXiL6n8w\n",
+        "article": "Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network"
+    },
+    "146": {
+        "url": "https://www.youtube.com//watch?v=XcxzKLrCpyk\n",
+        "article": "Toward Multimodal Image-to-Image Translation"
+    },
+    "147": {
+        "url": "https://www.youtube.com//watch?v=GdTBqBnqhaQ\n",
+        "article": "The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities"
+    },
+    "148": {
+        "url": "https://www.youtube.com//watch?v=6FzVhIV_t3s\n",
+        "article": "Gaussian Material Synthesis"
+    },
+    "149": {
+        "url": "https://www.youtube.com//watch?v=ni6P5KU3SDU\n",
+        "article": "Evolutionary Generative Adversarial Networks"
+    },
+    "150": {
+        "url": "https://www.youtube.com//watch?v=AbxPbfODGcs\n",
+        "article": "Adversarial Examples that Fool both Human and Computer Vision"
+    },
+    "151": {
+        "url": "https://www.youtube.com//watch?v=SA4YEAWVpbk\n",
+        "article": "One pixel attack for fooling deep neural networks"
+    },
+    "152": {
+        "url": "https://www.youtube.com//watch?v=veWkBsK0nwU\n",
+        "article": "Learning by Playing - Solving Sparse Reward Tasks from Scratch"
+    },
+    "153": {
+        "url": "https://www.youtube.com//watch?v=oWpp1YYcCsU\n",
+        "article": "IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures"
+    },
+    "154": {
+        "url": "https://www.youtube.com//watch?v=dxOHmvTaCN4\n",
+        "article": "DensePose: Dense Human Pose Estimation In The Wild"
+    },
+    "155": {
+        "url": "https://www.youtube.com//watch?v=UPcR7S8ue1A\n",
+        "article": "Avatar Digitization From a Single Image For Real-Time Rendering"
+    },
+    "156": {
+        "url": "https://www.youtube.com//watch?v=iBaWVuaSQ-Q\n",
+        "article": "DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks"
+    },
+    "157": {
+        "url": "https://www.youtube.com//watch?v=pVgC-7QTr40\n",
+        "article": "Building Blocks of Interpretability"
+    },
+    "158": {
+        "url": "https://www.youtube.com//watch?v=izZofvgaIig\n",
+        "article": "Why Should I Trust You? - Explaining the Predictions of Any Classifier"
+    },
+    "159": {
+        "url": "https://www.youtube.com//watch?v=hzpxXZJQNFg\n",
+        "article": "Parallel WaveNet: Fast High-Fidelity Speech Synthesis"
+    },
+    "160": {
+        "url": "https://www.youtube.com//watch?v=uGhyOBSzdTs\n",
+        "article": "A Hyperbolic Geometric Flow for Evolving Films and Foams"
+    },
+    "161": {
+        "url": "https://www.youtube.com//watch?v=HANeLG0l2GA\n",
+        "article": "A Neural Parametric Singing Synthesizer"
+    },
+    "162": {
+        "url": "https://www.youtube.com//watch?v=3yOZxmlBG3Y\n",
+        "article": "Learning to Prune Filters in Convolutional Neural Networks"
+    },
+    "163": {
+        "url": "https://www.youtube.com//watch?v=bdM9c2OFYuw\n",
+        "article": "Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions"
+    },
+    "164": {
+        "url": "https://www.youtube.com//watch?v=pAiiPNg0kDE\n",
+        "article": "SLAC: A Sparsely Labeled Dataset for Action Classification and Localization"
+    },
+    "165": {
+        "url": "https://www.youtube.com//watch?v=WhaRsrlaXLk\n",
+        "article": "DeepMind Control Suite"
+    },
+    "166": {
+        "url": "https://www.youtube.com//watch?v=DW1AuOC9TQc\n",
+        "article": "Better Exploration with Parameter Noise"
+    },
+    "167": {
+        "url": "https://www.youtube.com//watch?v=FMEk8cHF-OA\n",
+        "article": "Objects that Sound"
+    },
+    "168": {
+        "url": "https://www.youtube.com//watch?v=uOiOhVgR3VA\n",
+        "article": "Building Machines That Learn and Think Like People"
+    },
+    "169": {
+        "url": "https://www.youtube.com//watch?v=fTBeNAu18_s\n",
+        "article": "Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-varying Tensor Fields"
+    },
+    "170": {
+        "url": "https://www.youtube.com//watch?v=Uo6hFVRsjpA\n",
+        "article": "High-Resolution Multi-Scale Neural Texture Synthesis"
+    },
+    "171": {
+        "url": "https://www.youtube.com//watch?v=MCHw6fUyLMY\n",
+        "article": "Conformation Constraints for Efficient Viscoelastic Fluid Simulation"
+    },
+    "172": {
+        "url": "https://www.youtube.com//watch?v=_BPJFFkxSbw\n",
+        "article": "Deep Image Prior"
+    },
+    "173": {
+        "url": "https://www.youtube.com//watch?v=zjaz2mC1KhM\n",
+        "article": "Distilling a Neural Network Into a Soft DecisionTree"
+    },
+    "174": {
+        "url": "https://www.youtube.com//watch?v=XhH2Cc4thJw\n",
+        "article": "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs"
+    },
+    "175": {
+        "url": "https://www.youtube.com//watch?v=2ciR6rA85tg\n",
+        "article": "Mastering Chess and Shogi by Self-Play with aGeneral Reinforcement Learning Algorithm"
+    },
+    "176": {
+        "url": "https://www.youtube.com//watch?v=YjjTPV2pXY0\n",
+        "article": "Interactive Reconstruction of Monte Carlo Image Sequences using a Recurrent Denoising Autoencoder"
+    },
+    "177": {
+        "url": "https://www.youtube.com//watch?v=QmIM24JDE3A\n",
+        "article": "CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning"
+    },
+    "178": {
+        "url": "https://www.youtube.com//watch?v=v1oWke0Qf1E\n",
+        "article": "Universal Style Transfer via Feature Transforms"
+    },
+    "179": {
+        "url": "https://www.youtube.com//watch?v=6JZNEb5uDu4\n",
+        "article": "Hierarchical Representations for Efficient Architecture Search"
+    },
+    "180": {
+        "url": "https://www.youtube.com//watch?v=1zvohULpe_0\n",
+        "article": "Feature Visualization"
+    },
+    "181": {
+        "url": "https://www.youtube.com//watch?v=M_eaS7X-mIw\n",
+        "article": "Meta Learning Shared Hierarchies"
+    },
+    "182": {
+        "url": "https://www.youtube.com//watch?v=6DVng5JVuhI\n",
+        "article": "Deep Image Matting"
+    },
+    "183": {
+        "url": "https://www.youtube.com//watch?v=NEscK5RCtlo\n",
+        "article": "Interactive Example-Based Terrain Authoring withConditional Generative Adversarial Networks"
+    },
+    "184": {
+        "url": "https://www.youtube.com//watch?v=VrgYtFhVGmg\n",
+        "article": "Progressive Growing of GANs for Improved Quality, Stability, and Variation"
+    },
+    "185": {
+        "url": "https://www.youtube.com//watch?v=Lcxz6dtYjI4\n",
+        "article": "Neural Task Programming:Learning to Generalize Across Hierarchical Tasks"
+    },
+    "186": {
+        "url": "https://www.youtube.com//watch?v=p831XtyLA5M\n",
+        "article": "Emergent Complexity via Multi-Agent Competition"
+    },
+    "187": {
+        "url": "https://www.youtube.com//watch?v=7wt-9fjPDjQ\n",
+        "article": "Deep Scattering: Rendering Atmospheric Clouds with Radiance-Predicting Neural Networks"
+    },
+    "188": {
+        "url": "https://www.youtube.com//watch?v=dqxqbvyOnMY\n",
+        "article": "Unsupervised Image-to-Image Translation Networks"
+    },
+    "189": {
+        "url": "https://www.youtube.com//watch?v=mmeoUZ_wRm4\n",
+        "article": "Domain Randomization for Transferring Deep Neural  Networks from Simulation to the Real World"
+    },
+    "190": {
+        "url": "https://www.youtube.com//watch?v=mECv52eSjBo\n",
+        "article": "Real-time Global Illumination by Precomputed Local Reconstructionfrom Sparse Radiance Probes"
+    },
+    "191": {
+        "url": "https://www.youtube.com//watch?v=kfJMUeQO0S0\n",
+        "article": "Learning with Opponent-Learning Awareness"
+    },
+    "192": {
+        "url": "https://www.youtube.com//watch?v=9BOdng9MpzU\n",
+        "article": "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"
+    },
+    "193": {
+        "url": "https://www.youtube.com//watch?v=T_g6S3f0Z5I\n",
+        "article": "Video Frame Interpolation via Adaptive Separable Convolution"
+    },
+    "194": {
+        "url": "https://www.youtube.com//watch?v=WT0WtoYz2jE\n",
+        "article": "Deep Reinforcement Learning from Human Preferences"
+    },
+    "195": {
+        "url": "https://www.youtube.com//watch?v=2VyhmbEjs9A\n",
+        "article": "Game Engine Learning from Video"
+    },
+    "196": {
+        "url": "https://www.youtube.com//watch?v=nsuAQcvafCs\n",
+        "article": "Synthesizing Obama: Learning Lip Sync from Audio"
+    },
+    "197": {
+        "url": "https://www.youtube.com//watch?v=GNx8rgNcw5c\n",
+        "article": "Position-Normal Distributions for Efficient Rendering of Specular Microstructure"
+    },
+    "198": {
+        "url": "https://www.youtube.com//watch?v=Dvd1jQe3pq0\n",
+        "article": "Hindsight Experience Replay"
+    },
+    "199": {
+        "url": "https://www.youtube.com//watch?v=aR6M0MQBo2w\n",
+        "article": "Optimizing the Latent Space of Generative Networks"
+    },
+    "200": {
+        "url": "https://www.youtube.com//watch?v=14zkfDTN_qo\n",
+        "article": "Emergence of Locomotion Behaviours in Rich Environments"
+    },
+    "201": {
+        "url": "https://www.youtube.com//watch?v=TItYXBoJ1sc\n",
+        "article": "Perceptual Evaluation of Liquid Simulation Methods"
+    },
+    "202": {
+        "url": "https://www.youtube.com//watch?v=Mu0ew2F-SSA\n",
+        "article": "Data-Driven Synthesis of Smoke Flows with CNN-based Feature Descriptors"
+    },
+    "203": {
+        "url": "https://www.youtube.com//watch?v=bVGubOt_jLI\n",
+        "article": "Calipso: Physics-based Image and Video Editing through CAD Model Proxies"
+    },
+    "204": {
+        "url": "https://www.youtube.com//watch?v=BjwhMDhbqAs\n",
+        "article": "Hierarchical Surface Prediction for 3D Object Reconstruction"
+    },
+    "205": {
+        "url": "https://www.youtube.com//watch?v=ZtP3gl_2kBM\n",
+        "article": "Audio-Driven Facial Animation by Joint End-to-End Learning of Pose and Emotion"
+    },
+    "206": {
+        "url": "https://www.youtube.com//watch?v=mL3CzZcBJZU\n",
+        "article": "Look, Listen and Learn"
+    },
+    "207": {
+        "url": "https://www.youtube.com//watch?v=qKhSZmS6aWw\n",
+        "article": "An Efficient and Practical Near and Far Field Fur Reflectance Model"
+    },
+    "208": {
+        "url": "https://www.youtube.com//watch?v=St5lxIxYGkI\n",
+        "article": "StarCraft II: A New Challenge for Reinforcement Learning"
+    },
+    "209": {
+        "url": "https://www.youtube.com//watch?v=HSmm_vEVs10\n",
+        "article": "Spatiotemporal Variance-Guided Filtering: Real-Time Reconstruction for Path-Traced Global Illumination"
+    },
+    "210": {
+        "url": "https://www.youtube.com//watch?v=_DN2rzHkpZE\n",
+        "article": "Reluplex: An Efficient SMT Solver for VerifyingDeep Neural Networks"
+    },
+    "211": {
+        "url": "https://www.youtube.com//watch?v=xp-YOPcjkFw\n",
+        "article": "Imagination-Augmented Agents for Deep Reinforcement Learning"
+    },
+    "212": {
+        "url": "https://www.youtube.com//watch?v=vmkqFRyNUWo\n",
+        "article": "Visual Attribute Transfer through Deep Image Analogy"
+    },
+    "213": {
+        "url": "https://www.youtube.com//watch?v=RygQnpQMdPI\n",
+        "article": "Anisotropic Elastoplasticity for Cloth, Knit and Hair Frictional Contact"
+    },
+    "214": {
+        "url": "https://www.youtube.com//watch?v=6c2T2cykE_A\n",
+        "article": "Animating Elastic Rods with Sound"
+    },
+    "215": {
+        "url": "https://www.youtube.com//watch?v=343n8xwozJI\n",
+        "article": "Interactive High-Quality Green-Screen Keying via Color Unmixing"
+    },
+    "216": {
+        "url": "https://www.youtube.com//watch?v=EGnbAgbRIh4\n",
+        "article": "Light Field Video Capture Using a Learning-Based Hybrid Imaging System"
+    },
+    "217": {
+        "url": "https://www.youtube.com//watch?v=twWHwVaBfM8\n",
+        "article": "Phace: Physics-based Face Modeling and Animation"
+    },
+    "218": {
+        "url": "https://www.youtube.com//watch?v=7x2UvvD48Fw\n",
+        "article": "Deep Opacity Maps"
+    },
+    "219": {
+        "url": "https://www.youtube.com//watch?v=HUFh8cEDeII\n",
+        "article": "Inside Fluids: Clebsch Maps for Visualization and Processing"
+    },
+    "220": {
+        "url": "https://www.youtube.com//watch?v=XgB3Xg5st2U\n",
+        "article": "The "
+    },
+    "221": {
+        "url": "https://www.youtube.com//watch?v=vzg5Qe0pTKk\n",
+        "article": "A simple neural network modulefor relational reasoning"
+    },
+    "222": {
+        "url": "https://www.youtube.com//watch?v=ldO7RD3s4_s\n",
+        "article": "VoCo: Text-based Insertion and Replacement in Audio Narration"
+    },
+    "223": {
+        "url": "https://www.youtube.com//watch?v=oltKUPTBz9Q\n",
+        "article": "Efficient Yarn-based Cloth with Adaptive Contact Linearization"
+    },
+    "224": {
+        "url": "https://www.youtube.com//watch?v=SauCsNkGr-E\n",
+        "article": "A Practical Extension to Microfacet Theory for the Modeling of Varying Iridescence"
+    },
+    "225": {
+        "url": "https://www.youtube.com//watch?v=R5t74AC6I0A\n",
+        "article": "Robust eXtended Finite Elements for Complex Cutting of Deformables"
+    },
+    "226": {
+        "url": "https://www.youtube.com//watch?v=9bcbh2hC7Hw\n",
+        "article": "Parallel Multiscale Autoregressive Density Estimation"
+    },
+    "227": {
+        "url": "https://www.youtube.com//watch?v=wlAgyf_e-hA\n",
+        "article": "Stylized Keyframe Animation of Fluid Simulations"
+    },
+    "228": {
+        "url": "https://www.youtube.com//watch?v=4Df_BluxwkU\n",
+        "article": "Multi-species simulation of porous sand and water mixtures"
+    },
+    "229": {
+        "url": "https://www.youtube.com//watch?v=UjuBLS15JqM\n",
+        "article": "Perspective-aware Manipulation of Portrait Photos"
+    },
+    "230": {
+        "url": "https://www.youtube.com//watch?v=ZEjUqZU1hNQ\n",
+        "article": "Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids"
+    },
+    "231": {
+        "url": "https://www.youtube.com//watch?v=5vpklJw7uL0\n",
+        "article": "Interactive Design and Stability Analysis ofDecorative Joinery for Furniture"
+    },
+    "232": {
+        "url": "https://www.youtube.com//watch?v=jDxsGW5KUP0\n",
+        "article": "Lighting Grid Hierarchyfor Self-illuminating Explosions"
+    },
+    "233": {
+        "url": "https://www.youtube.com//watch?v=ugdciqeOPeM\n",
+        "article": "A Multi-Scale Model for Simulating Liquid-Hair Interactions"
+    },
+    "234": {
+        "url": "https://www.youtube.com//watch?v=wlndIQHtiFw\n",
+        "article": "Phase-Functioned Neural Networks for Character Control"
+    },
+    "235": {
+        "url": "https://www.youtube.com//watch?v=2vnLBb18MuQ\n",
+        "article": "DeepLoco: Dynamic Locomotion SkillsUsing Hierarchical Deep Reinforcement Learning"
+    },
+    "236": {
+        "url": "https://www.youtube.com//watch?v=D4C1dB9UheQ\n",
+        "article": "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks"
+    },
+    "237": {
+        "url": "https://www.youtube.com//watch?v=oleylS5XGpg\n",
+        "article": "Downsampling Scattering Parameters for Rendering Anisotropic Media"
+    },
+    "238": {
+        "url": "https://www.youtube.com//watch?v=HTUxsrO-P_8\n",
+        "article": "Deep Photo Style Transfer"
+    },
+    "239": {
+        "url": "https://www.youtube.com//watch?v=u9UUWqVquXo\n",
+        "article": "Photorealistic Facial Texture Inference Using Deep Neural Networks"
+    },
+    "240": {
+        "url": "https://www.youtube.com//watch?v=1U3YKnuMS7g\n",
+        "article": "3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions"
+    },
+    "241": {
+        "url": "https://www.youtube.com//watch?v=8YWgar0uCF8\n",
+        "article": "Semantic Scene Completion from a Single Depth Image"
+    },
+    "242": {
+        "url": "https://www.youtube.com//watch?v=aAsejHZC5EE\n",
+        "article": "Interactive Modeling and Authoring ofClimbing Plants"
+    },
+    "243": {
+        "url": "https://www.youtube.com//watch?v=lxNEWuO6xQk\n",
+        "article": "Primal-Dual Optimization for Fluids"
+    },
+    "244": {
+        "url": "https://www.youtube.com//watch?v=lf3ViWEeKqc\n",
+        "article": "On-the-Fly Print: Incremental Printing While Modeling"
+    },
+    "245": {
+        "url": "https://www.youtube.com//watch?v=UBORpapdAfU\n",
+        "article": "Rent3D: Floor-Plan Priors for Monocular Layout Estimation"
+    },
+    "246": {
+        "url": "https://www.youtube.com//watch?v=wz9cUncBdxw\n",
+        "article": "Learning Detail Transfer based on Geometric Features"
+    },
+    "247": {
+        "url": "https://www.youtube.com//watch?v=UEPbzj-ekAI\n",
+        "article": "Stitch Meshes for Modeling Knitted Clothing with Yarn-level Detail"
+    },
+    "248": {
+        "url": "https://www.youtube.com//watch?v=n3aoc36V8LM\n",
+        "article": "PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing"
+    },
+    "249": {
+        "url": "https://www.youtube.com//watch?v=bB54Wz4kq0E\n",
+        "article": "Shape2Vec: semantic-based descriptors for 3D shapes, sketches and images"
+    },
+    "250": {
+        "url": "https://www.youtube.com//watch?v=YWK-bnyXvbg\n",
+        "article": "Space-Time Video Completion"
+    },
+    "251": {
+        "url": "https://www.youtube.com//watch?v=8u3Hkbev2Gg\n",
+        "article": "Stable and Controllable Neural Texture Synthesis andStyle Transfer Using Histogram Losses"
+    },
+    "252": {
+        "url": "https://www.youtube.com//watch?v=QFu0vZgMcqk\n",
+        "article": "Adversarial Attacks on Neural Network Policies"
+    },
+    "253": {
+        "url": "https://www.youtube.com//watch?v=brs1qCDzRdk\n",
+        "article": "How2Sketch: Generating Easy-To-Follow Tutorials for Sketching 3D Objects"
+    },
+    "254": {
+        "url": "https://www.youtube.com//watch?v=u7kQ5lNfUfg\n",
+        "article": "Image-to-Image Translation with Conditional Adversarial Nets"
+    },
+    "255": {
+        "url": "https://www.youtube.com//watch?v=JzOc_NNY_zY\n",
+        "article": "Real-time Fiber-level Cloth Rendering"
+    },
+    "256": {
+        "url": "https://www.youtube.com//watch?v=ZUa5sNVSjGw\n",
+        "article": "Recovering Shape and Spatially-Varying Surface Reflectance under Unknown Illumination"
+    },
+    "257": {
+        "url": "https://www.youtube.com//watch?v=psOPu3TldgY\n",
+        "article": "Scene Completion Using Millions of Photographs"
+    },
+    "258": {
+        "url": "https://www.youtube.com//watch?v=kf-KViOuktc\n",
+        "article": "IM2CAD"
+    },
+    "259": {
+        "url": "https://www.youtube.com//watch?v=LmYKfU5O_NA\n",
+        "article": "Discovery of complex behaviors through contact-invariant optimization"
+    },
+    "260": {
+        "url": "https://www.youtube.com//watch?v=XbuEYcFfl6s\n",
+        "article": "Importance Sampling Techniques for Path Tracing inParticipating Media"
+    },
+    "261": {
+        "url": "https://www.youtube.com//watch?v=-all65C-dh0\n",
+        "article": "Cone Tracing for Furry Object Rendering"
+    },
+    "262": {
+        "url": "https://www.youtube.com//watch?v=WovbLx8C0yA\n",
+        "article": "RAISR: Rapid and Accurate Image Super Resolution"
+    },
+    "263": {
+        "url": "https://www.youtube.com//watch?v=Yd4blFeRTEw\n",
+        "article": "A scalable Schur-complement fluids solver for heterogeneous compute platforms"
+    },
+    "264": {
+        "url": "https://www.youtube.com//watch?v=HO1LYJb818Q\n",
+        "article": "Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling"
+    },
+    "265": {
+        "url": "https://www.youtube.com//watch?v=MtWtY4DdiWs\n",
+        "article": "Awesome Typography: Statistics-Based Text Effects Transfer"
+    },
+    "266": {
+        "url": "https://www.youtube.com//watch?v=oitGRdHFNWw\n",
+        "article": "Generating Videos with Scene Dynamics"
+    },
+    "267": {
+        "url": "https://www.youtube.com//watch?v=7aLda2E0Yyg\n",
+        "article": "An Iterative Image Registration Techniquewith an Application to Stereo Vision"
+    },
+    "268": {
+        "url": "https://www.youtube.com//watch?v=iOWamCtnwTc\n",
+        "article": "Accelerating Eulerian Fluid Simulation With Convolutional Networks"
+    },
+    "269": {
+        "url": "https://www.youtube.com//watch?v=dQSzmngTbtw\n",
+        "article": "Interactive Indirect Illumination Using Voxel Cone Tracing"
+    },
+    "270": {
+        "url": "https://www.youtube.com//watch?v=rAbhypxs1qQ\n",
+        "article": "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks"
+    },
+    "271": {
+        "url": "https://www.youtube.com//watch?v=PMSV7CjBuZI\n",
+        "article": "Crumpling Sound Synthesis"
+    },
+    "272": {
+        "url": "https://www.youtube.com//watch?v=j7XWCCvBrwU\n",
+        "article": "FlexMolds: Automatic Design of Flexible Shells for Molding"
+    },
+    "273": {
+        "url": "https://www.youtube.com//watch?v=cUWDeDRet4c\n",
+        "article": "Multiphase SPH Simulation for Interactive Fluids and Solids"
+    },
+    "274": {
+        "url": "https://www.youtube.com//watch?v=tB0AVkPDDJU\n",
+        "article": "Expediting Precomputation for Reduced Deformable Simulation "
+    },
+    "275": {
+        "url": "https://www.youtube.com//watch?v=DzsZ2qMtEUE\n",
+        "article": "Interactive Sound Propagation with Bidirectional Path Tracing"
+    },
+    "276": {
+        "url": "https://www.youtube.com//watch?v=FeMSEaHR8aw\n",
+        "article": "Dispersion Kernels for Water Wave Simulation"
+    },
+    "277": {
+        "url": "https://www.youtube.com//watch?v=7JbN9vXxGYE\n",
+        "article": "Acoustic Voxels: Computational Optimization of Modular Acoustic Filters"
+    },
+    "278": {
+        "url": "https://www.youtube.com//watch?v=aMo7pkkaZ9o\n",
+        "article": "Inverse-Foley Animation: Synchronizing rigid-body motions to sound"
+    },
+    "279": {
+        "url": "https://www.youtube.com//watch?v=4MfG9CDufPA\n",
+        "article": "Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup"
+    },
+    "280": {
+        "url": "https://www.youtube.com//watch?v=NnzzSkKKoa8\n",
+        "article": "Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image"
+    },
+    "281": {
+        "url": "https://www.youtube.com//watch?v=QkqNzrsaxYc\n",
+        "article": "Playing for Data: Ground Truth from Computer Games"
+    },
+    "282": {
+        "url": "https://www.youtube.com//watch?v=fl-7e8yBUic\n",
+        "article": "Vivace: a Practical Gauss-Seidel Method for Stable Soft Body Dynamics"
+    },
+    "283": {
+        "url": "https://www.youtube.com//watch?v=nK3giIsNAHg\n",
+        "article": "gTangle: a Grammar for the Procedural Generation of Tangle Patterns"
+    },
+    "284": {
+        "url": "https://www.youtube.com//watch?v=w2D5JR83pFI\n",
+        "article": "Physical Reproduction of Materials with Specified Subsurface Scattering"
+    },
+    "285": {
+        "url": "https://www.youtube.com//watch?v=kwqme8mEgz4\n",
+        "article": "Toward Animating Water with Complex Acoustic Bubbles"
+    },
+    "286": {
+        "url": "https://www.youtube.com//watch?v=5-xMV3sT3Tw\n",
+        "article": "Beyond Developable: Computational Design and Fabrication with Auxetic Materials"
+    },
+    "287": {
+        "url": "https://www.youtube.com//watch?v=Mx8viOFKiIs\n",
+        "article": "Adaptive Impulse Response Modeling for Interactive Sound Propagation"
+    },
+    "288": {
+        "url": "https://www.youtube.com//watch?v=bLFISzfQCDQ\n",
+        "article": "Visually Identifying Rank"
+    },
+    "289": {
+        "url": "https://www.youtube.com//watch?v=CqFIVCD1WWo\n",
+        "article": "WaveNet: A Generative Model for Raw Audio"
+    },
+    "290": {
+        "url": "https://www.youtube.com//watch?v=XmM1tF7AxdA\n",
+        "article": "AutoHair: Fully Automatic Hair Modeling from A Single Image"
+    },
+    "291": {
+        "url": "https://www.youtube.com//watch?v=ksCSL6Ql0Yg\n",
+        "article": "StyLit: Illumination-Guided Example-Based Stylization of 3D Renderings"
+    },
+    "292": {
+        "url": "https://www.youtube.com//watch?v=HvHZXPd0Bjs\n",
+        "article": "Adaptive Skinning for Interactive Hair-Solid Simulation"
+    },
+    "293": {
+        "url": "https://www.youtube.com//watch?v=cVZzkSaxKmY\n",
+        "article": "Synthesis of Filigrees for Digital Fabrication"
+    },
+    "294": {
+        "url": "https://www.youtube.com//watch?v=XpwW3glj2T8\n",
+        "article": "Two-Shot SVBRDF Capture for Stationary Materials"
+    },
+    "295": {
+        "url": "https://www.youtube.com//watch?v=Rdpbnd0pCiI\n",
+        "article": "Auto-Encoding Variational Bayes"
+    },
+    "296": {
+        "url": "https://www.youtube.com//watch?v=gHMY40kEXzs\n",
+        "article": "A Tale of Two Seasons: Participation and Medal Countsat the Summer and Winter Olympic Games"
+    },
+    "297": {
+        "url": "https://www.youtube.com//watch?v=ZHoNpxUHewQ\n",
+        "article": "Task-based Locomotion"
+    },
+    "298": {
+        "url": "https://www.youtube.com//watch?v=1ypV5ZiIbdA\n",
+        "article": "Learning to learn by gradient descentby gradient descent"
+    },
+    "299": {
+        "url": "https://www.youtube.com//watch?v=zLzhsyeAie4\n",
+        "article": "BundleFusion: Real-time Globally Consistent 3D Reconstruction using Online Surface Re-integration"
+    },
+    "300": {
+        "url": "https://www.youtube.com//watch?v=a3sgFQjEfp4\n",
+        "article": "The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies"
+    },
+    "301": {
+        "url": "https://www.youtube.com//watch?v=flOevlA9RyQ\n",
+        "article": "Visually Indicated Sounds"
+    },
+    "302": {
+        "url": "https://www.youtube.com//watch?v=FMHGS8jWtzM\n",
+        "article": "Time-varying Weathering in Texture Space"
+    },
+    "303": {
+        "url": "https://www.youtube.com//watch?v=6rNcAVr-U4s\n",
+        "article": "Connected Fermat Spirals for Layered Fabrication"
+    },
+    "304": {
+        "url": "https://www.youtube.com//watch?v=ZBWTD2aNb_o\n",
+        "article": "Model Compression"
+    },
+    "305": {
+        "url": "https://www.youtube.com//watch?v=hnT-P3aALVE\n",
+        "article": "Generative Adversarial Text to Image Synthesis"
+    },
+    "306": {
+        "url": "https://www.youtube.com//watch?v=MfaTOXxA8dM\n",
+        "article": "Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification"
+    },
+    "307": {
+        "url": "https://www.youtube.com//watch?v=heY2gfXSHBo\n",
+        "article": "Schr\u00c3\u00b6dinger's Smoke"
+    },
+    "308": {
+        "url": "https://www.youtube.com//watch?v=-rf_MDh-FiE\n",
+        "article": "Surface-Only Liquids"
+    },
+    "309": {
+        "url": "https://www.youtube.com//watch?v=Uxax5EKg0zA\n",
+        "article": "Artistic style transfer for videos"
+    },
+    "310": {
+        "url": "https://www.youtube.com//watch?v=wBrwN4dS-DA\n",
+        "article": "Terrain-Adaptive Locomotion SkillsUsing Deep Reinforcement Learning "
+    },
+    "311": {
+        "url": "https://www.youtube.com//watch?v=72_iAlYwl0c\n",
+        "article": "Separable Subsurface Scattering"
+    },
+    "312": {
+        "url": "https://www.youtube.com//watch?v=SC0D7aJOySY\n",
+        "article": "Real-Time Polygonal-Light Shading with Linearly Transformed Cosines"
+    },
+    "313": {
+        "url": "https://www.youtube.com//watch?v=5PSWr2ovBvU\n",
+        "article": "Deep Learning in Label-free Cell Classification"
+    },
+    "314": {
+        "url": "https://www.youtube.com//watch?v=_S1lyQbbJM4\n",
+        "article": "Face2Face: Real-time Face Capture and Reenactment of RGB Videos"
+    },
+    "315": {
+        "url": "https://www.youtube.com//watch?v=LhhEv1dMpKE\n",
+        "article": "Dropout: A Simple Way to Prevent Neural Networks fromOvertting"
+    },
+    "316": {
+        "url": "https://www.youtube.com//watch?v=nfPBT71xYVQ\n",
+        "article": "Narrow Band FLIP for Liquid Simulations"
+    },
+    "317": {
+        "url": "https://www.youtube.com//watch?v=4Y7RIAgOpn0\n",
+        "article": "Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments"
+    },
+    "318": {
+        "url": "https://www.youtube.com//watch?v=6aF9sJrzxaM\n",
+        "article": "Regression Shrinkage and Selection via the Lasso"
+    },
+    "319": {
+        "url": "https://www.youtube.com//watch?v=0Xc9LIb_HTw\n",
+        "article": "Experiments with a new boosting algorithm"
+    },
+    "320": {
+        "url": "https://www.youtube.com//watch?v=ZolWxY4f9wc\n",
+        "article": "3-D Depth Reconstruction from a Single Still Image"
+    },
+    "321": {
+        "url": "https://www.youtube.com//watch?v=a-ovvd_ZrmA\n",
+        "article": "Mastering the Game of Go with Deep Neural Networks and Tree Search"
+    },
+    "322": {
+        "url": "https://www.youtube.com//watch?v=-dbkE4FFPrI\n",
+        "article": "Palette-based Photo Recoloring"
+    },
+    "323": {
+        "url": "https://www.youtube.com//watch?v=UGAzi1QBVEg\n",
+        "article": "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis"
+    },
+    "324": {
+        "url": "https://www.youtube.com//watch?v=K-0KJtk07YU\n",
+        "article": "Stylized Caustics: Progressive Rendering of Animated Caustics"
+    },
+    "325": {
+        "url": "https://www.youtube.com//watch?v=58tsN03IXlw\n",
+        "article": "Heart rate, oxygen uptake, and energy cost ofascending and descending the stairs"
+    },
+    "326": {
+        "url": "https://www.youtube.com//watch?v=YPpIWQnufu8\n",
+        "article": "The imposter phenomenon in high achieving women: Dynamics and therapeutic intervention"
+    },
+    "327": {
+        "url": "https://www.youtube.com//watch?v=u3C4zkxNtok\n",
+        "article": "A Biophysically-Based Model of the Optical Properties of Skin Aging"
+    },
+    "328": {
+        "url": "https://www.youtube.com//watch?v=j9FLOinaG94\n",
+        "article": "Intriguing properties of neural networks"
+    },
+    "329": {
+        "url": "https://www.youtube.com//watch?v=IFmj5M5Q5jg\n",
+        "article": "Mastering the Game of Go with Deep Neural Networks and Tree Search"
+    },
+    "330": {
+        "url": "https://www.youtube.com//watch?v=ZaFqvM1IsP8\n",
+        "article": "Interactive Acoustic Transfer Approximation for Modal Sound "
+    },
+    "331": {
+        "url": "https://www.youtube.com//watch?v=KgIrnR2O8KQ\n",
+        "article": "An Implicit Viscosity Formulation for SPH Fluids"
+    },
+    "332": {
+        "url": "https://www.youtube.com//watch?v=eI_QUtgJHH8\n",
+        "article": "Interactive Albedo Editing in Path-Traced Volumetric Materials"
+    },
+    "333": {
+        "url": "https://www.youtube.com//watch?v=_r-eIKkyAco\n",
+        "article": "High-contrast Computational Caustic Design"
+    },
+    "334": {
+        "url": "https://www.youtube.com//watch?v=ImIaoKsjgUE\n",
+        "article": "Interactive Design of 3D Printable Robotic Creatures"
+    },
+    "335": {
+        "url": "https://www.youtube.com//watch?v=kMa_B3wLxAM\n",
+        "article": "Interactive Design of Probability Density Functions for Shape Grammars"
+    },
+    "336": {
+        "url": "https://www.youtube.com//watch?v=Bui3DWs02h4\n",
+        "article": "Toxicity Prediction using Deep Learning"
+    },
+    "337": {
+        "url": "https://www.youtube.com//watch?v=B70tT4WMyJk\n",
+        "article": "Neural Programmer-Interpreters"
+    },
+    "338": {
+        "url": "https://www.youtube.com//watch?v=1aVSb-UbYWc\n",
+        "article": "Wetbrush: GPU-based 3D painting simulation at the bristle level"
+    },
+    "339": {
+        "url": "https://www.youtube.com//watch?v=674DL39dOOQ\n",
+        "article": "On the Einstein Podolsky Rosen Paradox"
+    },
+    "340": {
+        "url": "https://www.youtube.com//watch?v=9wOBkJJ-w2s\n",
+        "article": "Automatic Parameter Control for Metropolis Light Transport"
+    },
+    "341": {
+        "url": "https://www.youtube.com//watch?v=ATN9oqMF_qk\n",
+        "article": "Are we living in a computer simulation?"
+    },
+    "342": {
+        "url": "https://www.youtube.com//watch?v=JtBTffVVa-c\n",
+        "article": "Multiple-Scattering Microfacet BSDFs with the Smith Model"
+    },
+    "343": {
+        "url": "https://www.youtube.com//watch?v=_yjHPu1aYCY\n",
+        "article": "Dynamic Terrain Traversal Skills Using Reinforcement Learning "
+    },
+    "344": {
+        "url": "https://www.youtube.com//watch?v=Q-XKOPNIDAg\n",
+        "article": "Cipher printing telegraph systems: For secret wire and radio telegraphic communications"
+    },
+    "345": {
+        "url": "https://www.youtube.com//watch?v=e-WB4lfg30M\n",
+        "article": "Deep Visual-Semantic Alignments for Generating Image Descriptions"
+    },
+    "346": {
+        "url": "https://www.youtube.com//watch?v=8xjTtE3JCDw\n",
+        "article": "Visual Transcripts: Lecture Notes from Blackboard-Style Lecture Videos"
+    },
+    "347": {
+        "url": "https://www.youtube.com//watch?v=mkI6qfpEJmI\n",
+        "article": "Real-time Expression Transfer for Facial Reenactment"
+    },
+    "348": {
+        "url": "https://www.youtube.com//watch?v=sSnDTPjfBYU\n",
+        "article": "Gradient-Domain Path Tracing"
+    },
+    "349": {
+        "url": "https://www.youtube.com//watch?v=Jkkjy7dVdaY\n",
+        "article": "Long Short-Term Memory"
+    },
+    "350": {
+        "url": "https://www.youtube.com//watch?v=uj8b5mu0P7Y\n",
+        "article": "Multimaterial Mesh-Based Surface Tracking"
+    },
+    "351": {
+        "url": "https://www.youtube.com//watch?v=2kOCTf8jIik\n",
+        "article": "Computational Design of Metallophone Contact Sounds"
+    },
+    "352": {
+        "url": "https://www.youtube.com//watch?v=f0Uzit_-h3M\n",
+        "article": "Metropolis Light Transport"
+    },
+    "353": {
+        "url": "https://www.youtube.com//watch?v=rskdLEl05KI\n",
+        "article": "Toward High-Quality Modal Contact Sound"
+    },
+    "354": {
+        "url": "https://www.youtube.com//watch?v=LU3pdWTD4Rw\n",
+        "article": "Adaptive Anisotropic Remeshing for Cloth Simulation"
+    },
+    "355": {
+        "url": "https://www.youtube.com//watch?v=HOLoPgTzV6g\n",
+        "article": "Image Based Relighting Using Neural Networks"
+    },
+    "356": {
+        "url": "https://www.youtube.com//watch?v=2i1hrywDwPo\n",
+        "article": "The Visual Microphone: Passive Recovery of Sound from Video"
+    },
+    "357": {
+        "url": "https://www.youtube.com//watch?v=SmyiKmfnbhc\n",
+        "article": "Building Tensile Structures with Flying Machines"
+    },
+    "358": {
+        "url": "https://www.youtube.com//watch?v=dH1s49-lrBk\n",
+        "article": "Highly Adaptive Liquid Simulations on Tetrahedral Meshes"
+    },
+    "359": {
+        "url": "https://www.youtube.com//watch?v=kQ2bqz3HPJE\n",
+        "article": "Flexible Muscle-Based Locomotion for Bipedal Creatures"
+    },
+    "360": {
+        "url": "https://www.youtube.com//watch?v=kLnG073NYtw\n",
+        "article": "Computational Hydrographic Printing"
+    },
+    "361": {
+        "url": "https://www.youtube.com//watch?v=-R9bJGNHltQ\n",
+        "article": "A Neural Algorithm of Artistic Style"
+    },
+    "362": {
+        "url": "https://www.youtube.com//watch?v=UePDRN94C8c\n",
+        "article": "Time-lapse Mining from Internet Photos"
+    },
+    "363": {
+        "url": "https://www.youtube.com//watch?v=TRNUTN01SEg\n",
+        "article": "Femto-Photography: Capturing and Visualizing the Propagation of Light"
+    }
+}
