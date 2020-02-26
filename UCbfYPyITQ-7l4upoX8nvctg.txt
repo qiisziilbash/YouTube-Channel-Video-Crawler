@@ -1,0 +1,42 @@
+{
+    "1": {
+        "url": "https://www.youtube.com//watch?v=TbWQ4lMnLNw\n",
+        "article": "Unifying points, beams, and paths in volumetric light transport simulation"
+    },
+    "2": {
+        "url": "https://www.youtube.com//watch?v=B1Dk_9k6l08\n",
+        "article": "Depth-Aware Video Frame Interpolation"
+    },
+    "3": {
+        "url": "https://www.youtube.com//watch?v=Ks7wDYsN4yM\n",
+        "article": "Deep Single Image Portrait Relighting"
+    },
+    "4": {
+        "url": "https://www.youtube.com//watch?v=62Q1NL4k8cI\n",
+        "article": "Dota 2 with Large Scale Deep Reinforcement Learning"
+    },
+    "5": {
+        "url": "https://www.youtube.com//watch?v=EjVzjxihGvU\n",
+        "article": "DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement"
+    },
+    "6": {
+        "url": "https://www.youtube.com//watch?v=9IqRdEs4_JU\n",
+        "article": "CD-MPM: Continuum Damage Material Point Methods for Dynamic Fracture Animation"
+    },
+    "7": {
+        "url": "https://www.youtube.com//watch?v=SWoravHhsUU\n",
+        "article": "Analyzing and Improving the Image Quality of #StyleGAN"
+    },
+    "8": {
+        "url": "https://www.youtube.com//watch?v=T7w7QuYa4SQ\n",
+        "article": "DiffTaichi: Differentiable Programming for Physical Simulation"
+    },
+    "9": {
+        "url": "https://www.youtube.com//watch?v=o_DhNqHazKY\n",
+        "article": "DReCon: Data-Driven responsive Control of Physics-Based Characters"
+    },
+    "10": {
+        "url": "https://www.youtube.com//watch?v=O-52enqUSNw\n",
+        "article": "Unified Spray, Foam and Bubbles for Particle-Based Fluids"
+    }
+}
