@@ -1,5 +1,5 @@
 # Psitelly-Bot
-This is a bot to crawl over other YouTube channels to collect videos from the channel
+This is a bot that crawls over YouTube channels to collect videos from the channel
 
 ## Instruction to use
 > in order to make selenium work \
