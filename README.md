@@ -12,3 +12,9 @@ $ ln -fs /opt/geckodriver /usr/bin/geckodriver \
 $ ln -fs /opt/geckodriver /usr/local/bin/geckodriver
 
 
+### TODO
+[ ] save description for the failed ones and set a var to be false
+[ ] look at the failed ones and check more keyword like "Our paper"
+
+
+
