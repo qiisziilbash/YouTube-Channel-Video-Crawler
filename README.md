@@ -1,5 +1,7 @@
 # Psitelly-Bot
-This is a bot that crawls over YouTube channels to collect videos from the channel
+This is a bot that crawls over YouTube channels to collect videos from the channel 
+and also their descriptions. \
+This code is highly reusable. Although it is written to crawl over 2 Min papers channel, the functions in the code can be used independently.
 
 ## Instruction to use
 In order to make selenium work with Firefox
